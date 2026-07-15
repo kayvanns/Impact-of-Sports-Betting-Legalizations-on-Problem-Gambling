@@ -2,9 +2,10 @@
 A difference-in-differences analysis of staggered state-level legalization 
 on NCPG helpline volume, 2016–2026.
 
+## Motivation
+
 **Key finding:** 
 
-## Methods
-## Key Visualizations
+## Event Study Plot
 ## Reproducing this analysis
 ## Data access
